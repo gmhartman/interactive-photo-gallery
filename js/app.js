@@ -11,7 +11,7 @@ filterSearch.addEventListener("input", e => {
             desc[i].style.display = 'none';
         } else {
             desc[i].style.display = "";
-        }
+        };
     }
 })
 
